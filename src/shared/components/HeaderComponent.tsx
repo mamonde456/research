@@ -8,7 +8,7 @@ export default function HeaderComponent() {
       <h1 className="w-[234px] h-full">
         <a
           href="/"
-          className="w-[260px] h-full flex justify-center items-center"
+          className="w-[180px] xl:w-[260px] h-full flex justify-center items-center"
         >
           <img className="w-full" src={logo}></img>
         </a>
